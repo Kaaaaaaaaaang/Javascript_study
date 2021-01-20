@@ -14,3 +14,4 @@
 1.11 : 5.6 iteralbe 객체<br>
 1.18 : 5.7 맵과 셋<br>
 1.19 : 2.8 위크맵과 위크셋<br>
+1.20 : 2.9 Object.keys, values, entries<br>
