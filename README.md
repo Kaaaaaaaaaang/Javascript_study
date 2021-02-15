@@ -24,3 +24,4 @@
 2.2 : 6.6 객체로서의 함수와 기명 함수 표현식 ~ 6.7 'new Function' 문법<br>
 2.4 : 6.8 setTimeout과 setInterval을 이용한 호출 스케일링<br>
 2.13 : 6.9 call/apply와 데코레이터, 포워딩 ~ 6.11 화살표 함수 다시 살펴보기<br>
+2.15 : 7.1 프로퍼티 플래그와 설명자 ~ 7.2 프로퍼티 getter와 setter<br>
